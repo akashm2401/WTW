@@ -33,6 +33,24 @@
     }
 }
 
+// Responsive
+@media only screen and (max-width: 768px) {
+    #about-section {
+        // background-color: red;
+        .about-container {
+            
+            .flex-box {
+                display: block;
+
+                .left, .right { 
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+// Animation 
 .scroll-left {
     // animation on scroll
     animation: on-scroll-slideIn-left linear;
