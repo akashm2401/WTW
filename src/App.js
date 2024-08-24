@@ -6,8 +6,8 @@ import LandingPage from './components/LandingPage/LandingPage.tsx';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
+      <header>
         <HeaderComponent/>
       </header>
 

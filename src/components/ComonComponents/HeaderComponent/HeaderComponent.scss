@@ -64,7 +64,7 @@
     .navbar-nav {
         flex-direction: column;
         position: absolute;
-        top: 80px;
+        top: 60px;
         right: 0;
         background-color: #292E34;
         width: 100%;
@@ -73,6 +73,7 @@
         transition: max-height 0.3s ease-in-out;
         // padding-left: 60px;
         padding-bottom: 20px;
+        padding-top: 30px;
         visibility: hidden; /* Hide the menu by default */
         margin: 0;
     }
