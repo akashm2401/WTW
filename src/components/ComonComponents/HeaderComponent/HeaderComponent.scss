@@ -4,7 +4,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem;
+    padding: 1.5rem 2rem;
     color: #fff;
     position: relative;
     z-index: 1000; /* Ensures the navbar is above other content */
@@ -64,7 +64,7 @@
     .navbar-nav {
         flex-direction: column;
         position: absolute;
-        top: 60px;
+        top: 80px;
         right: 0;
         background-color: #292E34;
         width: 100%;
