@@ -1,7 +1,7 @@
 #about-section {
-    padding: 2rem;
+    padding: 1rem;
     .about-container {
-        margin-top: 2rem;
+        margin-top: 1rem;
 
         .flex-box {
             margin: 0;
@@ -44,6 +44,8 @@
 
                 .left, .right { 
                     width: 100%;
+                    font-size: 1rem;
+                    line-height: 1.5rem;
                 }
             }
         }
