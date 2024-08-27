@@ -4,6 +4,7 @@ import React from 'react';
 import HeroComponent from './HeroComponent/HeroComponent.tsx';
 import AboutComponent from './AboutComponent/AboutComponent.tsx';
 import ServicesComponent from './ServicesComponent/ServicesComponent.tsx';
+import ReviewsComponent from './ReviewsComponent/ReviewsComponent.tsx';
 
 export default function LandingPage() {
   return (
@@ -13,6 +14,7 @@ export default function LandingPage() {
             <HeroComponent/>
             <AboutComponent/>
             <ServicesComponent/>
+            <ReviewsComponent/>
         </section>
     </div>
   )
